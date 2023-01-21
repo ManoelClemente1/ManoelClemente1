@@ -1,4 +1,4 @@
-### Hi there, I'm Manoel Clemente
+## Olá! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /> Hi there, I'm Manoel Clemente
 
 - I'm graduated in Systems Analysis and Development
 - I'm currently working at [Itaú Unibanco](https://www.itau.com.br/) as a Software Engineer 
