@@ -9,7 +9,7 @@
 
 ### Certifications
 ![AWS Certified Developer - Associate](https://github.com/ManoelClemente1/ManoelClemente1/blob/main/images/badge_developer_associate.png?raw=true)
-![AWS Certified Solutions Architect - Associate](https://github.com/ManoelClemente1/ManoelClemente1/images/master/badge_achictect_associate.png?raw=true)
+![AWS Certified Solutions Architect - Associate](https://github.com/ManoelClemente1/ManoelClemente1/blob/main/images/badge_achictect_associate.png?raw=true)
 ![AWS Certified Cloud Practitioner](https://github.com/ManoelClemente1/ManoelClemente1/blob/main/images/badge_cloud_practitioner.png?raw=true)
 ![Scrum Foundation Professional Certified (SFPC)](https://github.com/ManoelClemente1/ManoelClemente1/blob/main/images/badge_scrum.png?raw=true)
 
