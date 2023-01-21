@@ -10,6 +10,7 @@
 ### Certifications
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelClemente1&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/manoel-clemente/
