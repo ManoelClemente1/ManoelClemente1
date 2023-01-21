@@ -14,7 +14,5 @@
 ![Scrum Foundation Professional Certified (SFPC)](https://github.com/ManoelClemente1/ManoelClemente1/blob/main/images/badge_scrum.png?raw=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelClemente1&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
 [linkedin]: https://www.linkedin.com/in/manoel-clemente/
 [gmail]: mailto:manoelclemente9@outlook.com?subject=Olá
