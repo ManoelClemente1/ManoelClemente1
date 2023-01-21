@@ -8,7 +8,7 @@
 - Work experience back-end projects (Java, Spring Boot, JUnit, Databases like RDS, DynamoDB, SQL Server, Oracle SQL, Infrastructure with cloud computing AWS Services like API Gateway, AWS Lambda, ECS with Fargate or EC2, DynamoDB, Aurora, S3, and Load balancers)
 
 ### Certifications
-
+![alt text](https://github.com/ManoelClemente1/ManoelClemente1/images/master/badge_achictect_associate.png?raw=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelClemente1&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
