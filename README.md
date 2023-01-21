@@ -1,8 +1,3 @@
-[<img align="left" alt="linkedin-badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>][linkedin]
-[<img align="left" alt="twitter-badge" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white"/>][twitter]
-[<img align="left" alt="gmail-badge" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>][gmail]
-<br>
-
 ### Hi there, I'm Manoel Clemente
 
 - I'm graduated in Systems Analysis and Development
