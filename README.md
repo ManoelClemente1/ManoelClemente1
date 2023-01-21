@@ -7,6 +7,12 @@
 - I like to share knowledge
 - Work experience back-end projects (Java, Spring Boot, JUnit, Databases like RDS, DynamoDB, SQL Server, Oracle SQL, Infrastructure with cloud computing AWS Services like API Gateway, AWS Lambda, ECS with Fargate or EC2, DynamoDB, Aurora, S3, and Load balancers)
 
+## 🛠 Skills
+- Java
+- Spring Framework
+- AWS
+- JUnit
+
 ### Certifications
 ![AWS Certified Developer - Associate](https://github.com/ManoelClemente1/ManoelClemente1/blob/main/images/badge_developer_associate.png?raw=true)
 ![AWS Certified Solutions Architect - Associate](https://github.com/ManoelClemente1/ManoelClemente1/blob/main/images/badge_achictect_associate.png?raw=true)
